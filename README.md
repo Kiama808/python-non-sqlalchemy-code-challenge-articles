@@ -1,4 +1,6 @@
 # Phase 3 Code Challenge: Articles - without SQLAlchemy (Updated)
+Here is a link to the screenshot projecting the passing tests 
+https://drive.google.com/file/d/1gAt4moyTNnB9B8odKI4Ey9XnleHTrdnw/view?usp=sharing
 
 In this code challenge, you will be working with a Magazine domain.
 
